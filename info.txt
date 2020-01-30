@@ -1,1 +1,2 @@
 ﻿Tohle je uvodni verze dokumentu. 1
+Fix 3
